@@ -4,12 +4,19 @@ WordPress API to access https://github.com/opennorth/represent-canada
 === Represent ===
 
 Contributors: jpmckinney, https://github.com/joemurray
+
 Donate link: http://opennorth.ca/donate/
+
 Tags: politics, politicians, political, elections, representatives, postal code
+
 Requires at least WordPress version: 3.0
+
 Tested up to WordPress: 3.5.1
+
 Stable tag: 1.1
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 The Represent API WordPress plugin allows developers to easily create plugins that harness the Represent API.
