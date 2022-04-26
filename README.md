@@ -2,6 +2,7 @@
 WordPress API to access https://github.com/opennorth/represent-canada
 
 === Represent ===
+
 Contributors: jpmckinney, https://github.com/joemurray
 Donate link: http://opennorth.ca/donate/
 Tags: politics, politicians, political, elections, representatives, postal code
