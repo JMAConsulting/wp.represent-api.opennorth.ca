@@ -32,7 +32,7 @@ See also the code at https://github.com/opennorth/represent-canada
 
 = 1.2 =
 
-Post on github.com/JMAConsulting under new name of wp.represent-api.opennorth.ca of code from https://downloads.wordpress.org/plugin/represent-api.1.1.zip
+Post on github.com/JMAConsulting under new name of wp.represent-api.opennorth.ca of code from https://downloads.wordpress.org/plugin/represent-api.1.1.zip . Note that it is no longer available from https://wordpress.org/plugins/represent-api/ due to an unspecified Guideline Violation.
 
 = 1.1 =
 
